@@ -1,5 +1,6 @@
 ## Nemosofts UI Library
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
+[![](https://jitpack.io/v/nemosofts/library.svg)](https://jitpack.io/#nemosofts/library)
 <a href="https://github.com/nemosofts/library">
     <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
